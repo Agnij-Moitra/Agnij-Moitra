@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Agnij-Moitra
+<!--- 👋 Hi, I’m @Agnij-Moitra
 - 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning Python and Qikit
+--->
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
