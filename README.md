@@ -1,5 +1,4 @@
-## Hi there 👋, my name is Agnij
-![](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/261f473aa56954fdc0f5f95e66ac74361a202570/image/QGSS21_Wallpaper02.png)
+![](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg)
 
 
 - 📫 How to reach me: [agnijmoitra@pm.me](mailto:agnijmoitra@pm.me) 
