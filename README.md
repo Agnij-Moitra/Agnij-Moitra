@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/Agnij-Moitra)  
 ![](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg)
 
 
@@ -18,8 +19,6 @@
 ![GitHub metrics](https://metrics.lecoq.io/Agnij-Moitra)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Agnij-Moitra)  
-
-![Profile views](https://gpvc.arturio.dev/Agnij-Moitra)  
 
 
 <!--- 👋 Hi, I’m @Agnij-Moitra
