@@ -32,6 +32,8 @@
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Agnij-Moitra) -->
 
+## Dot Repositories
+![QFinance](https://github-readme-stats.vercel.app/api/pin/?username=QFinance&repo=Agnij-Moitra&theme=light)
 
 <!--- 👋 Hi, I’m @Agnij-Moitra
 - 👀 I’m interested in Quantum Computing
