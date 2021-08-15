@@ -1,8 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/Agnij-Moitra)  
-![](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg)
+![Banner Image](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg)
 
 
-- 📫 How to reach me: [agnijmoitra@pm.me](mailto:agnijmoitra@pm.me) 
+<!-- - 📫 How to reach me: [agnijmoitra@pm.me](mailto:agnijmoitra@pm.me) -->
 - 😄 Pronouns: He/Him 
 
 ### Backend
