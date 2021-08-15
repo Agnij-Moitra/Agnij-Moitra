@@ -24,7 +24,7 @@
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agnij-Moitra)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnij-Moitra)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Agnij-Moitra&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnij-Moitra)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Agnij-Moitra&show_icons=true&count_private=true&theme=algolia)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Agnij-Moitra)  
 
@@ -33,7 +33,7 @@
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Agnij-Moitra) -->
 
 ## Dot Repositories
-![QFinance](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=QFinance&theme=light) ![readability-checker](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=readability-checker&theme=dark) ![Q-Rand-Num](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=Q-Rand-Num&theme=light)
+![QFinance](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=QFinance&ttheme=algolia) ![readability-checker](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=readability-checker&theme=algolia) ![Q-Rand-Num](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=Q-Rand-Num&theme=algolia)
 
 <!--- 👋 Hi, I’m @Agnij-Moitra
 - 👀 I’m interested in Quantum Computing
