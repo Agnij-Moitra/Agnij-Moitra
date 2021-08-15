@@ -2,7 +2,7 @@
 ![Banner Image](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg)
 
 
-- 📫 How to reach me: [here](https://form.jotform.com/212263193863457)
+- 📫 How to reach me: [here](https://form.jotform.com/212263193863457){:target="_blank"}
 - 😄 Pronouns: He/Him 
 
 ### Backend
