@@ -33,7 +33,7 @@
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Agnij-Moitra) -->
 
 ## Dot Repositories
-![QFinance](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=QFinance&theme=light) <!-- ![readability-checker](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=readability-checker=light) --> ![Q-Rand-Num](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=Q-Rand-Num&theme=light)
+![QFinance]() <!-- ![readability-checker](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=readability-checker=light) --> ![Q-Rand-Num](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=Q-Rand-Num&theme=light)
 
 <!--- 👋 Hi, I’m @Agnij-Moitra
 - 👀 I’m interested in Quantum Computing
