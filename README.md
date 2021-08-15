@@ -34,9 +34,11 @@
 ### Dot Repositories
 ![QFinance](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=QFinance&theme=algolia) ![readability-checker](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=readability-checker&theme=algolia) ![Q-Rand-Num](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=Q-Rand-Num&theme=algolia)
 
-<!--- 👋 Hi, I’m @Agnij-Moitra
-- 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently learning Python and Qikit
+<!--- 
+Initial Template
+👋 Hi, I’m @Agnij-Moitra
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
