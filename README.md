@@ -27,7 +27,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Agnij-Moitra&theme=algolia)  
 
-![GitHub metrics](https://metrics.lecoq.io/Agnij-Moitra)  
+![GitHub metrics](https://metrics.lecoq.io/Agnij-Moitra)
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Agnij-Moitra&theme=tokyonight_duo&hide_border=true) -->
 
