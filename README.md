@@ -1,5 +1,4 @@
 ![Profile views](https://gpvc.arturio.dev/Agnij-Moitra)  
-markdown: kramdown
 ![Banner Image](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg)
 
 
