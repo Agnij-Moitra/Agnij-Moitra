@@ -29,7 +29,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Agnij-Moitra)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Agnij-Moitra)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Agnij-Moitra&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 ### Dot Repositories
 ![QFinance](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=QFinance&theme=algolia) ![readability-checker](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=readability-checker&theme=algolia) ![Q-Rand-Num](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=Q-Rand-Num&theme=algolia)
