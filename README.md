@@ -22,15 +22,10 @@
 
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agnij-Moitra&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnij-Moitra&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Agnij-Moitra&show_icons=true&count_private=true&theme=algolia) -->
-
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Agnij-Moitra&theme=algolia) --> 
-
-![Metrics](https://metrics.lecoq.io/Agnij-Moitra?template=classic&languages=1&isocalendar=1&introduction=1&achievements=1&repositories=1&lines=1&stackoverflow=1&notable=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&stackoverflow.user=15786169&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta)
-
+![Metrics](https://metrics.lecoq.io/Agnij-Moitra?template=classic&languages=1&isocalendar=1&introduction=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Agnij-Moitra&theme=tokyonight_duo&hide_border=true) -->
-
 ### Dot Repositories
 ![QFinance](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=QFinance&theme=algolia) ![readability-checker](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=readability-checker&theme=algolia) ![Q-Rand-Num](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=Q-Rand-Num&theme=algolia)
 
