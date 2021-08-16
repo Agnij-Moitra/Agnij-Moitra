@@ -23,7 +23,7 @@
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agnij-Moitra&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnij-Moitra&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Agnij-Moitra&show_icons=true&count_private=true&theme=algolia) -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Agnij-Moitra&theme=algolia)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Agnij-Moitra&theme=algolia) -->
 ![Metrics](https://metrics.lecoq.io/Agnij-Moitra?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Agnij-Moitra&theme=tokyonight_duo&hide_border=true) -->
 <!--- ### Dot Repositories
