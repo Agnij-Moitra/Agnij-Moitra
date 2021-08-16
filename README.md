@@ -26,9 +26,9 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Agnij-Moitra&theme=algolia) --> 
 ![Metrics](https://metrics.lecoq.io/Agnij-Moitra?template=classic&languages=1&isocalendar=1&introduction=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Agnij-Moitra&theme=tokyonight_duo&hide_border=true) -->
-### Dot Repositories
+<!--- ### Dot Repositories
 ![QFinance](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=QFinance&theme=algolia) ![readability-checker](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=readability-checker&theme=algolia) ![Q-Rand-Num](https://github-readme-stats.vercel.app/api/pin/?username=Agnij-Moitra&repo=Q-Rand-Num&theme=algolia)
-
+--->
 <!--- 
 Initial Template
 👋 Hi, I’m @Agnij-Moitra
