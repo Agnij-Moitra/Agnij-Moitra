@@ -37,7 +37,7 @@ Initial Template
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/github-logo.svg' alt='github' height='40'>](https://github.com/Agnij-Moitra)  [<img      src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/linkedin-logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Agnij-Moitra/)  
+[<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/github-logo.svg' alt='github' height='40'>](https://github.com/Agnij-Moitra)   [<img      src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/linkedin-logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Agnij-Moitra/)  
 --->
  
 
