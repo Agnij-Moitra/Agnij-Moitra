@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/Agnij-Moitra)  
-[<img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg' alt='banner' height='60'>]
+[<img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg' alt='banner' height='100'>]
 <!-- ![Banner Image](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg) -->
 
 
