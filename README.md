@@ -1,5 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/Agnij-Moitra)  
-![Banner Image](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg)
+[<img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg' alt='banner' height='40'>]
+<!-- ![Banner Image](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg) -->
 
 
 - 📫 How to reach me: [here](https://bit.ly/ContactAgnij)
