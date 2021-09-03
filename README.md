@@ -17,7 +17,7 @@
 <code><img height="40" src="https://www.i-programmer.info/images/stories/News/2015/Mar/A/jupyter.jpg"/></code> <code><img height="40" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"/></code> <code><img height="40" src="https://numpy.org/images/logos/numpy.svg"/></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/></code> 
 <code><img height="40" width="100" src="https://i.redd.it/c6h7rok9c2v31.jpg"/></code>
-<code><img height="40" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"/></code>
+<code><img height="40" src="https://api.nuget.org/v3-flatcontainer/sqlite.redist/3.8.4.2/icon"/></code>
 <code><img height="40" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"/></code>
 <code><img height="40" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"/></code>
 <code><img height="40" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"/></code>
