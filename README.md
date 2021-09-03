@@ -6,6 +6,8 @@
 - 📫 How to reach me: [here](https://bit.ly/ContactAgnij)
 - 😄 Pronouns: He/Him 
 
+[<img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/stack-overflow-logo.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15786169/agnij-moitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/kaggle-logo.svg' alt='kaggle' height='30'>](https://www.kaggle.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/hacker-rank-logo.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/twitter-logo.svg' alt='twitter' height='30'>](https://twitter.com/AgnijMoitra)  [<img src='https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png' alt='Reddit' height='30'>](https://www.reddit.com/user/AgnijMoitra)
+
 ## Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agnij-Moitra&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnij-Moitra&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Agnij-Moitra&show_icons=true&count_private=true&theme=algolia) -->
@@ -27,8 +29,8 @@
 "https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"/></code> <code><img height="30" src=
 "https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png"/></code> 
 
-### Social Media
-[<img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/stack-overflow-logo.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15786169/agnij-moitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/kaggle-logo.svg' alt='kaggle' height='30'>](https://www.kaggle.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/hacker-rank-logo.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/twitter-logo.svg' alt='twitter' height='30'>](https://twitter.com/AgnijMoitra)  [<img src='https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png' alt='Reddit' height='30'>](https://www.reddit.com/user/AgnijMoitra)
+<!-- ### Social Media -->
+
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Agnij-Moitra&theme=tokyonight_duo&hide_border=true) -->
 <!--- ### Dot Repositories
