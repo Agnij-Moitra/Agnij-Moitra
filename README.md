@@ -19,7 +19,7 @@
 <code><img height="40" width="100" src="https://i.redd.it/c6h7rok9c2v31.jpg"/></code>
 <code><img height="40" src="https://api.nuget.org/v3-flatcontainer/sqlite.redist/3.8.4.2/icon"/></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg"/></code>
-<code><img height="40" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/bash-shell-icon.jpg"/></code>
 <code><img height="40" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"/></code>
 
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)  ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
