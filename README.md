@@ -13,7 +13,7 @@
 ![Metrics](https://metrics.lecoq.io/Agnij-Moitra?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
 
 ## Skills
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/></code>
 <code><img height="40" src="https://www.i-programmer.info/images/stories/News/2015/Mar/A/jupyter.jpg"/></code> <code><img height="40" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"/></code> <code><img height="40" src="https://numpy.org/images/logos/numpy.svg"/></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/></code> 
 <code><img height="40" width="100" src="https://i.redd.it/c6h7rok9c2v31.jpg"/></code>
