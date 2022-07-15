@@ -2,10 +2,6 @@
 <!-- <img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg' alt='banner' height='250'> -->
 <!-- ![Banner Image](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg) -->
 
-
-- 📫 How to reach me: [here](https://bit.ly/ContactAgnij)
-- 😄 Pronouns: He/Him 
-
 [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/linkedin-logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/agnijmoitra/)[<img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/stack-overflow-logo.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15786169/agnij-moitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/kaggle-logo.svg' alt='kaggle' height='30'>](https://www.kaggle.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/hacker-rank-logo.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/twitter-logo.svg' alt='twitter' height='30'>](https://twitter.com/AgnijMoitra)  [<img src='https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png' alt='Reddit' height='30'>](https://www.reddit.com/user/AgnijMoitra)
 
 ## Github Stats
