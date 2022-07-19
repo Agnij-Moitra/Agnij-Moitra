@@ -2,7 +2,6 @@
 <!-- <img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg' alt='banner' height='250'> -->
 <!-- ![Banner Image](https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/banner.jpg) -->
 
-<!--
 [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/linkedin-logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/agnijmoitra/)[<img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/stack-overflow-logo.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15786169/agnij-moitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/kaggle-logo.svg' alt='kaggle' height='30'>](https://www.kaggle.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/hacker-rank-logo.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/twitter-logo.svg' alt='twitter' height='30'>](https://twitter.com/AgnijMoitra)  [<img src='https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png' alt='Reddit' height='30'>](https://www.reddit.com/user/AgnijMoitra)
 
 ## Github Stats
@@ -26,7 +25,6 @@
 "https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"/></code> <code><img height="30" src=
 "https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png"/></code> 
 
--->
 <!-- ### Social Media -->
 
 
