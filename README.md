@@ -14,7 +14,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agnij-Moitra&theme=discord)](https://github.com/ryo-ma/github-profile-trophy/)
 ---
 ### Skills
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/></code> <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/></code> 
 <code><img height="30" src="https://www.i-programmer.info/images/stories/News/2015/Mar/A/jupyter.jpg"/></code> <code><img height="30" src="https://pbs.twimg.com/profile_images/1327348581372575744/6M3Ll1hq_400x400.jpg"/></code> <code><img height="30" src="https://numpy.org/images/logo.svg"/></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/></code> 
 <code><img height="30" width="100" src="https://i.redd.it/c6h7rok9c2v31.jpg"/></code>
