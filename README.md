@@ -4,6 +4,12 @@
 
 [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/linkedin-logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/agnijmoitra/)[<img  src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/stack-overflow-logo.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/15786169/agnij-moitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/kaggle-logo.svg' alt='kaggle' height='30'>](https://www.kaggle.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/hacker-rank-logo.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/agnijmoitra)  [<img src='https://raw.githubusercontent.com/Agnij-Moitra/Agnij-Moitra/main/image/twitter-logo.svg' alt='twitter' height='30'>](https://twitter.com/AgnijMoitra)  [<img src='https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png' alt='Reddit' height='30'>](https://www.reddit.com/user/AgnijMoitra)
 ---
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/inm9dclynts3xs3d0xktuhht1)
+---
 ## Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agnij-Moitra&theme=discord)](https://github.com/ryo-ma/github-profile-trophy/)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnij-Moitra&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Agnij-Moitra&show_icons=true&count_private=true&theme=algolia) -->
@@ -24,13 +30,6 @@
 <code><img height="30" src="https://www.svgrepo.com/show/184140/android.svg"/></code> <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/></code> <code><img height="30" src="https://www.i-programmer.info/images/stories/News/2015/Mar/A/jupyter.jpg"/></code> <code><img height="30" src="https://seekvectors.com/storage/images/CoLaboratory-01.svg"/></code> <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/></code> <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/></code> <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></code> <code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"/></code> <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png"/></code> <code><img height="30" src="https://www.pinclipart.com/picdir/big/180-1807410_spyder-icon-clipart.png"/></code> <code><img height="30" src=
 "https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"/></code> <code><img height="30" src=
 "https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png"/></code> 
----
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/inm9dclynts3xs3d0xktuhht1)
----
 <!-- ### Social Media -->
 
 
