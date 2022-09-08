@@ -12,7 +12,6 @@
 ---
 ## Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agnij-Moitra&theme=discord)](https://github.com/ryo-ma/github-profile-trophy/)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnij-Moitra&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
 ---
 ### Skills
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/></code>
