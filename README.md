@@ -1,5 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/Agnij-Moitra)  
-## Github Stats
+ 
+# Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agnij-Moitra&theme=discord)](https://github.com/ryo-ma/github-profile-trophy/)
 <!--
 ---
